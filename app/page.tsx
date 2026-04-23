@@ -16,9 +16,8 @@ const siteUrl = (
 ).replace(/\/+$/, "");
 
 export const metadata: Metadata = {
-  title: "Software Engineer Portfolio",
-  description:
-    "Explore Adejare Daniel's portfolio: production-grade frontend, backend, and mobile systems with real-world impact.",
+  title: "Adejare Daniel | Software Engineer",
+  description: "I ship softwares that solve real problems.",
   alternates: {
     canonical: "/",
   },
