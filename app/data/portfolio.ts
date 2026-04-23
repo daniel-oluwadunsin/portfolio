@@ -153,18 +153,20 @@ export const cvItems: CvItem[] = [
 
 export const experiences: ExperienceItem[] = [
   {
-    role: "Backend Engineer",
+    role: "Fullstack Engineer",
     company: "GodConnect",
     period: "Sep 2025 - Mar 2026",
     summary:
-      "Led a backend rebuild for a cross-platform social app with live streaming, payments, and real-time messaging.",
+      "Built and scaled a cross-platform mobile and backend system for a social app with payments, live streaming, and real-time messaging.",
     highlights: [
-      "Migrated to a new backend version while preserving existing production data.",
-      "Implemented Stripe flows including cards, Apple Pay, and Google Pay.",
-      "Delivered real-time chat and live video integrations with WebSockets and Agora.",
-      "Deployed and managed services on Azure VMs with CI/CD workflows.",
+      "Built and maintained the fullstack product across Flutter mobile apps (iOS/Android) and NestJS backend services, covering core APIs, business logic, and data architecture.",
+      "Migrated and rebuilt the backend platform while preserving and integrating existing production data with minimal disruption.",
+      "Implemented secure Stripe payments supporting card payments, Apple Pay, and Google Pay.",
+      "Integrated real-time chat with WebSockets and live video streaming with Agora to power interactive in-app experiences.",
+      "Deployed and operated infrastructure on Azure VMs (PM2, IIS, Nginx), managed media on Azure Storage, and automated backend/mobile delivery with GitHub Workflows and Fastlane.",
     ],
     stack: [
+      "Flutter",
       "NestJS",
       "Prisma",
       "Microsoft SQL Server",
