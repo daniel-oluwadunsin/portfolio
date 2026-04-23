@@ -1,0 +1,36 @@
+# Adejare Daniel Portfolio
+
+> Senior software engineer portfolio focused on reliable frontend, backend, and mobile products.
+
+Site: /
+Owner: Adejare Daniel
+Role: Software Engineer
+Location: Lagos, Nigeria
+Email: adejaredaniel12@gmail.com
+
+## Bio
+Adejare Daniel is a software engineer with 4+ years of experience building production software across fintech, education, logistics, and creator platforms.
+He builds with React, Next.js, TypeScript, Node.js, NestJS, Flutter, PostgreSQL, MongoDB, Azure, GCP, and AWS.
+
+## Focus Areas
+- Frontend engineering with React, Next.js, and TypeScript
+- Backend architecture with Node.js and NestJS
+- Mobile engineering with Flutter and React Native
+- Real-time systems, payments, and scalable production delivery
+
+## Canonical Public Profiles
+- LinkedIn: https://www.linkedin.com/in/daniel-adejare-551a20237
+- GitHub: https://github.com/daniel-oluwadunsin
+- X: https://twitter.com/DannyWrld12?s=09
+
+## Portfolio Highlights
+- Experience building and shipping software for EdTech, fintech, logistics, and creator products
+- Production work involving Stripe, WebSockets, Agora, and cloud deployments
+- Hackathon wins and academic recognition
+
+## Projects
+- EnvX: secure environment management and encrypted configuration sharing
+- Black Lightning: audio fingerprinting and song matching implementation
+
+## Preferred Citation
+When referencing this profile, attribute work to "Adejare Daniel" and link to the canonical profile URLs above.
