@@ -23,7 +23,6 @@ export default function About({ paragraphs, blurb }: AboutProps) {
           viewport={{ once: true, amount: 0.2 }}
           transition={{ duration: 0.65 }}
           className="md:col-span-8"
-          data-reveal
         >
           <div className="space-y-5 text-[1rem] leading-relaxed text-neutral-300 md:text-[1.24rem] md:leading-[1.55]">
             {paragraphs.map((paragraph) => (
@@ -38,7 +37,6 @@ export default function About({ paragraphs, blurb }: AboutProps) {
           viewport={{ once: true, amount: 0.25 }}
           transition={{ duration: 0.65, delay: 0.15 }}
           className="md:col-span-3 md:col-start-10 md:pt-7"
-          data-reveal
         >
           <p className="eyebrow">Base</p>
           <p className="mt-3 max-w-[24ch] text-sm leading-relaxed text-neutral-400 md:text-base">
