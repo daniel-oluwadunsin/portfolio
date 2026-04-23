@@ -42,7 +42,7 @@ export const profile = {
   name: "Adejare Daniel",
   title: "Software Engineer",
   heroText: "I build software you can rely on.",
-  statement: "I enjoy shipping software that solves real problems.",
+  statement: "I ship softwares that solve real problems.",
   blurb:
     "Over the last 4+ years, I have shipped products across fintech, education, logistics, and creator platforms with a strong bias for reliability and maintainable code.",
   email: "adejaredaniel12@gmail.com",
