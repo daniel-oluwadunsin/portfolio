@@ -28,7 +28,6 @@ export default function Experience({ items }: ExperienceProps) {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, amount: 0.15 }}
             transition={{ duration: 0.55, delay: index * 0.05 }}
-            data-reveal
             className={`grid gap-4 md:grid-cols-12 ${index % 2 === 0 ? "" : "md:pl-12"}`}
           >
             <div className="md:col-span-8">
