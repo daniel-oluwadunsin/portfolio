@@ -9,7 +9,7 @@ type HeroProps = {
 
 export default function Hero({ data }: HeroProps) {
   return (
-    <header className="relative min-h-[88svh] px-6 pb-14 pt-14 md:px-10 md:pb-20 md:pt-18 lg:px-14">
+    <header className="relative md:min-h-[88svh] px-6 pb-14 pt-14 md:px-10 md:pb-20 md:pt-18 lg:px-14">
       <div className="hero-glow" aria-hidden="true" />
       <div className="hero-glow-secondary" aria-hidden="true" />
 
