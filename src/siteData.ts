@@ -82,7 +82,7 @@ export const projects: Project[] = [
     links: [{ label: "Live site", href: civicPulseUrl }],
   },
   {
-    name: "Black Lightening",
+    name: "Black Lightning",
     description:
       "A research and implementation of Shazam's music-recognition alorigthm that identifies songs from short microphone recordings. It normalizes audio, extracts spectral peaks with FFTs, creates compact fingerprints, and uses offset-aware voting to find the most consistent match in a fingerprint database.",
     technology:
@@ -119,11 +119,13 @@ export const newsItems: NewsItem[] = [
         text: "AI3 Growth Hackathon",
         href: "https://luma.com/3s90t09i?tk=QSeBeQ",
       },
-      { text: " by " },
+      { text: " Most Complete Product Prize by " },
       { text: "OpenBuild", href: "https://x.com/OpenBuildxyz" },
       { text: " where I built " },
       { text: "Mesh", href: "https://ai3-hack.oluwadunsin.dev/" },
-      { text: "." },
+      {
+        text: ", a decentralized evidence platform that turns digital claims into reusable Evidence Passports with traceable sources and transparent model assessments.",
+      },
     ],
   },
   {
