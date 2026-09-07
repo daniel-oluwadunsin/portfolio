@@ -365,7 +365,8 @@ function SiteFooter() {
   return (
     <footer className="site-footer">
       <p className="text-center">
-        © Copyright 2026 Daniel Adejare. Last updated: September 7, 2026.
+        © Copyright {new Date().getFullYear()} Daniel Adejare. Last updated:
+        September 7, 2026.
       </p>
     </footer>
   );
